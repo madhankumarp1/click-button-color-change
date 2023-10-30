@@ -1,0 +1,51 @@
+.page1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    flex-direction: column;
+    text-align: center;
+    gap: 48px;
+}
+
+.hed {
+    width: 95%;
+    height: 100%;
+}
+
+.page1inner {
+    width: 95%;
+    height: 100%;
+}
+
+.myStyle {
+    background-color: rgb(118, 218, 118);
+    color: rgb(81, 6, 202);
+}
+
+label {
+    font-size: x-large;
+    font-family: monospace;
+    color: brown;
+    font-weight: bolder;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: monospace;
+    font-weight: bolder;
+    cursor: pointer;
+
+
+
+    
+}
+
+  .myStyle{
+    background-color: #2bdd52;
+    color: black;
+  }
